@@ -9,7 +9,7 @@ console.log(number.toFixed(3))
 const otherNumber=23.8966
 console.log(otherNumber.toPrecision(4))
 let b=new Date()
-console.log(b.toLocaleString())
+console.log(b.toDateString())
 n=100000
 console.log(n.toLocaleString(1));
 console.log(typeof(b))
